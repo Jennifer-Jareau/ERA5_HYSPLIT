@@ -30,10 +30,12 @@ For ERA5 data, you can be more flexible with the time range, but you'll need 3D 
 with these variable 
 
 var2d ： ['Surface_pressure_surface','2_metre_temperature_surface','10_metre_U_wind_component_surface','10_metre_V_wind_component_surface','Boundary_layer_height_surface','Convective_available_potential_energy_surface','Instantaneous_eastward_turbulent_surface_stress_surface','Instantaneous_northward_turbulent_surface_stress_surface']
+
 var3d ： ['Geopotential_isobaric','Temperature_isobaric','Vertical_velocity_isobaric','U_component_of_wind_isobaric','V_component_of_wind_isobaric','Relative_humidity_isobaric']
     
 ### 3. RUN HYSPLIT
 #### 3.0 Set output meteorology variable
+add parameters about humidity
 ![Uploading image.png…]()
 
 
